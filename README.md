@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasaram Suthar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Chime - A chat application**
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **jasaramsuthar2004@gmail.com**
