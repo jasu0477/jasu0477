@@ -38,11 +38,20 @@
 
 ### Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasu0477&hide_border=true" height="180" />
-  &nbsp;
-  <img src="https://leetcard.jacoblin.cool/jasu0712?theme=light&hide_border=true" height="180" />
-</p>
+### Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasu0477&hide_border=true"
+           height="180"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/jasu0712?theme=light&hide_border=true"
+           height="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
