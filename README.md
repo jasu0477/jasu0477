@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 &nbsp;currently levelling up my dev skills
+- 🌱 &nbsp;Currently levelling up my dev skills
 - 📍 &nbsp;Goa, India
 - 📫 &nbsp;jasaramsuthar2004@gmail.com
 
