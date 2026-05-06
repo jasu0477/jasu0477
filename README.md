@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=jasu0477&style=for-the-badge&color=blue" alt="profile views" />
 </p>
 <h1 align="center">Hi, I'm Jasaram Suthar👋</h1>
-<p align="center">full-stack dev · working on my skills and slowly figuring out dsa & system design · graduating soon (send job offers)</p>
+<p align="center">full-stack dev · working on my dev skills and slowly figuring out dsa & system design · graduating soon (send job offers)</p>
 
 
 ---
